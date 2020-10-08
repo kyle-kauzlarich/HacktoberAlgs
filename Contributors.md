@@ -1,4 +1,3 @@
 # Contributors
 
-**Kyle Kauzlarich** 
-[Github] (https://github.com/kyle-kauzlarich)
+**Kyle Kauzlarich** https://github.com/kyle-kauzlarich
