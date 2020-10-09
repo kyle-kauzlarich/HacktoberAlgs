@@ -8,4 +8,4 @@ The name of the folder should match the programming langage ie JavaScript, Java,
 the name of the file will be the name of the Algorithm the explination/solution should be in the same file as a comment
 
 ###### Adding yourself to the contributers list
-In Contributors.md please add your name bolded and include a link to your github next to your name.
+In Contributors.md please add your name bolded and include a link to your github next to your name, to make a new line in markdown end the previous line with 2 trailing spaces before hitting enter/return
